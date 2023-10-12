@@ -1,0 +1,27 @@
+person
+backpack
+handbag
+tie
+sports ball
+bottle
+cup
+fork
+knife
+spoon
+bowl
+banana
+apple
+chair
+sofa
+pottedplant
+tvmonitor
+laptop
+mouse
+remote
+keyboard
+cell phone
+book
+clock
+vase
+scissors
+teddy bear
